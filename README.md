@@ -21,6 +21,6 @@ Uma vez adquirido o PicoFly, é preciso subir o firmware segurando o botão "boo
 Ao abrir a carcaça principal note que existem quatro parafusos de asa tripla, cuidado para não forçar com a chave errada e perder o parafuso (eles são delicados). Existe bastante conteúdo ensinando essa parte, mas basicamente ao contemplar a carcaça de metal, remova o adaptador de microSD (ele sai ao puxar). Após a retirada da carcaça de metal, comece removendo o dissipador de calor e, feito isso, limpe a pasta termica de tudo e remova a case de metal, limpe novamente a pasta termica e posicione o V2 como segue [nesse tutorial](https://web.archive.org/web/20250127101647/https://www.retrosix.wiki/picofly-hwfly-rp2040-nintendo-switch). Coloque novamente a pasta termica e feche tudo bonitinho.
 
 3. Preparando o microSD
-Siga esse [tutorial](https://switch.hacks.guide/user_guide/all/sd_preparation.html) e siga adiante nas páginas ^^
+Siga esse [tutorial](https://web.archive.org/web/20250219135246/https://switch.hacks.guide/user_guide/modchip/preparing_hekate.html) e siga adiante nas páginas ^^
 
 Happy Hacking ≽^•⩊•^≼
