@@ -24,6 +24,7 @@ Ao abrir a carcaça principal note que existem quatro parafusos de asa tripla, c
 Siga esse [tutorial](https://switch.hacks.guide/user_guide/all/sd_preparation.html) e siga adiante nas páginas ^^
 
 Happy Hacking 
+--------------
    /ᐢ⑅ᐢ\   ♡   ₊˚  
 ꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
 ./づ~ :¨·.·¨:     ₊˚  
